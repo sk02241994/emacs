@@ -6,3 +6,4 @@
 (add-hook 'prog-mode-hook 'display-line-numbers-mode)
 (setq display-line-numbers-type 'relative)
 (setq font-lock-maximum-decoration t)
+(setq make-backup-files nil)

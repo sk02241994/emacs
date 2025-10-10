@@ -6,6 +6,7 @@
 (column-number-mode t)
 (set-frame-font "JetBrainsMonoNL NF Thin" t t)
 (global-display-line-numbers-mode t)
+(global-font-lock-mode 0)
 (setq scroll-step 1
       scroll-margin 5)
 
